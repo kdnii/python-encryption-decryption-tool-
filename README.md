@@ -3,11 +3,12 @@
 - this tool shuffles character list as a secret key to turn your normal text into something weird?!— and back again!
 
 
- # supports:
-    letters (A–Z, a–z)
-    numbers (0–9)
-    symbols & punctuation
-    spaces
+ # supports
+ - letters (A–Z, a–z)
+ - numbers (0–9)
+ - symbols & punctuation
+ - spaces
+
 
 # Example Run
 ```
